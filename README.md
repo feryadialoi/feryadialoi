@@ -6,7 +6,7 @@ Software Engineer (BE) @ruangguru
 
 You know I'm something of a Software Engineer myself
 
-* 🌍  I'm based in Pontianak, Indonesia
+* 🌍  I'm based in Kalimantan Barat, Indonesia
 * ✉️  You can contact me at [feryadialoi@gmail.com](mailto:feryadialoi@gmail.com)
 * 🚀  I'm currently working on [Clever](http://feryadialoi.github.io/clever) my video on demand service
 * 🧠  I'm learning and doing Java, Golang, TypeScript and Rust
